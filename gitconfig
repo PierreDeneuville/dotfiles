@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = deneuville.pierre@gmail.com
+	name = pierredeneuville
